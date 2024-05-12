@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
  
-const firebaseEnv = import.meta.env.VITE_FIREBASE_CONFIF
+const firebaseEnv = import.meta.env.VITE_FIREBASE_CONFIG
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
